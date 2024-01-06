@@ -1,0 +1,9 @@
+[submodule "lib/LinearAlgebra"]
+	path = lib/LinearAlgebra
+	url = https://github.com/kdolberg/LinearAlgebra.git
+[submodule "lib/MachineLearning"]
+	path = lib/MachineLearning
+	url = https://github.com/kdolberg/MachineLearning.git
+[submodule "lib/confirm"]
+	path = lib/confirm
+	url = https://github.com/kdolberg/confirm.git
